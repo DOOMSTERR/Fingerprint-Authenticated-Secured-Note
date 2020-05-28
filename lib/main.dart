@@ -20,34 +20,6 @@ class MyApp extends StatelessWidget {
 //    final getValueOfisAuthenticated = Provider.of<BiometricsProvider>(context);
     final LocalAuthentication auth = LocalAuthentication();
 
-    Future<void> _authenticate(dynamic data) async {
-      bool authenticated = true;
-      
-      try {
-        authenticated = await auth.authenticateWithBiometrics(
-            localizedReason: 'Scan your fingerprint to authenticate',
-            useErrorDialogs: true,
-            stickyAuth: true);
-      } on PlatformException catch (e) {
-        print(e);
-      }
-//  getValueOfisAuthenticated.isAuthenticated = authenticated;
-//       Fluttertoast.showToast(
-//           msg: getValueOfisAuthenticated.isAuthenticated
-//               .toString()
-//               .toUpperCase(),
-//           toastLength: Toast.LENGTH_LONG,
-//           gravity: ToastGravity.BOTTOM,
-//           backgroundColor: Colors.purple,
-//           textColor: Colors.white,
-//           fontSize: 16.0);
-print(authenticated);
-      if (authenticated) {
-        Navigator.of(context).push(
-            MaterialPageRoute(builder: (context) => HomeView(data)));
-      }
-    }
-
     return FutureBuilder(
       future: _getTheme(),
       builder: (builder, snapshot) {
@@ -75,23 +47,53 @@ print(authenticated);
               } else {
                 return MaterialApp(
                   title: 'Notes App',
-                  theme: snapshot.data ? Themes.light : Themes.dark,
+                  // theme: snapshot.data ? Themes.light : Themes.dark,
                   navigatorObservers: [routeObserver],
-                  home: Scaffold(
-                    body: Center(
-                      child: RaisedButton(
-                        color: Colors.orange[500],
-                        child: Text('Scan for finger print'),
-                        onPressed: (){
-                          _authenticate(snapshot.data);
+                  home: Builder(builder: (context) {
 
-                        }
+                    Future<void> _authenticate() async {
+                      bool authenticated = false;
 
+                      try {
+                        authenticated = await auth.authenticateWithBiometrics(
+                            localizedReason:
+                                'Scan your fingerprint to authenticate',
+                            useErrorDialogs: true,
+                            stickyAuth: true);
+                      } on PlatformException catch (e) {
+                        print(e);
+                      }
+//  getValueOfisAuthenticated.isAuthenticated = authenticated;
+//       Fluttertoast.showToast(
+//           msg: getValueOfisAuthenticated.isAuthenticated
+//               .toString()
+//               .toUpperCase(),
+//           toastLength: Toast.LENGTH_LONG,
+//           gravity: ToastGravity.BOTTOM,
+//           backgroundColor: Colors.purple,
+//           textColor: Colors.white,
+//           fontSize: 16.0);
+                      print(authenticated);
+                      if (authenticated) {
+                        Navigator.of(context).push(MaterialPageRoute(
+                            builder: (context) => HomeView(snapshot.data)));
+                      }
+                    }
 
-                        //navigation
+                    return Scaffold(
+                      body: Center(
+                        child: RaisedButton(
+                            color: Colors.orange[500],
+                            child: Text('Scan for finger print'),
+                            onPressed: () {
+                              _authenticate();
+                            }
+
+                            //navigation
+                            ),
                       ),
-                    ),
-                  ),
+                    );
+                  }),
                 );
               }
             },

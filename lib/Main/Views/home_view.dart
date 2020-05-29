@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:BIO/Main/Utils/db_halper.dart';
-import 'package:BIO/Main/Utils/theme_bloc.dart';
-import 'package:BIO/Main/Views/add_note_view.dart';
+import 'package:Notes/Main/Utils/db_halper.dart';
+import 'package:Notes/Main/Utils/theme_bloc.dart';
+import 'package:Notes/Main/Views/add_note_view.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:share/share.dart';
 
@@ -56,7 +56,7 @@ class _HomeViewState extends State<HomeView> with RouteAware {
           IconButton(
             onPressed: () {
               Share.share(
-                  'check out my Nots app \n https://github.com/simformsolutions/flutter_note_app');
+                  'check out my Nots app');
             },
             icon: Icon(Icons.share),
           ),
@@ -136,7 +136,7 @@ class _HomeViewState extends State<HomeView> with RouteAware {
         elevation: 0,
         key: key,
         onPressed: () => _onFabTap(context),
-        child: Icon(Icons.add),
+        child: Center(child: Icon(Icons.add)),
       );
 
   _onFabTap(BuildContext context) {

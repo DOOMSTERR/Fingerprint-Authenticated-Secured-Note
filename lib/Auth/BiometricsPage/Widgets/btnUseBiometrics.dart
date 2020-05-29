@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:BIO/Auth/Providers/BiometricsProvider.dart';
+import 'package:Notes/Auth/Providers/BiometricsProvider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:local_auth/local_auth.dart';

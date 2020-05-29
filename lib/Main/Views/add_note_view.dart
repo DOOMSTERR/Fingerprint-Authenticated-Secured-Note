@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:BIO/Main/Classes/note.dart';
-import 'package:BIO/Main/Utils/db_halper.dart';
+import 'package:Notes/Main/Classes/note.dart';
+import 'package:Notes/Main/Utils/db_halper.dart';
 import 'package:share/share.dart';
 
 class AddNote extends StatefulWidget {

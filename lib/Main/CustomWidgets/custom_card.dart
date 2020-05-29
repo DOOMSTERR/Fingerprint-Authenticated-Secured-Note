@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:BIO/Main/Classes/note.dart';
-import 'package:BIO/Main/Views/add_note_view.dart';
+import 'package:Notes/Main/Classes/note.dart';
+import 'package:Notes/Main/Views/add_note_view.dart';
 
 class CustomCard extends StatelessWidget {
   final Note data;
@@ -27,17 +27,19 @@ class CustomCard extends StatelessWidget {
           child: Container(
             padding: EdgeInsets.all(15.0),
             child: Row(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.end,
               children: <Widget>[
                 Expanded(
                   child: Text(
                     data.title,
                     style: TextStyle(fontSize: 15, color: Colors.white),
                   ),
-                ),
-                Icon(
-                  Icons.arrow_forward_ios,
-                  color: Colors.white,
-                )
+                ), 
+                Icon(      
+                    Icons.arrow_forward_ios,
+                    color: Colors.white,
+                ), 
               ],
             ),
           ),
@@ -46,3 +48,5 @@ class CustomCard extends StatelessWidget {
     );
   }
 }
+
+

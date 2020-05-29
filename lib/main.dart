@@ -46,8 +46,9 @@ class MyApp extends StatelessWidget {
                 );
               } else {
                 return MaterialApp(
+                  debugShowCheckedModeBanner: false,
                   title: 'Notes App',
-                  // theme: snapshot.data ? Themes.light : Themes.dark,
+                  theme: snapshot.data ? Themes.light : Themes.dark,
                   navigatorObservers: [routeObserver],
                   home: Builder(builder: (context) {
 

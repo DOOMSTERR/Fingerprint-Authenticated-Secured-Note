@@ -1,4 +1,4 @@
-import 'package:BIO/Main/Classes/note.dart';
+import 'package:Notes/Main/Classes/note.dart';
 import 'package:sqflite/sqflite.dart';
 import 'dart:async';
 import 'dart:io';

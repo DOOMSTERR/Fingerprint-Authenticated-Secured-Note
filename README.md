@@ -15,16 +15,16 @@ Screenshots will be added !!
 <p align="center">
   <img width="900" height="450" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
 
-#### Language - Dart (Flutter) 
-#### Packages and Dependencies used - 
+### Language - Dart (Flutter) 
+### Packages and Dependencies used - 
 - For notes app to store the notes thatuser adds or modifies :-    [sqflite: any](https://pub.dev/packages/sqflite)
-- path_provider: any
-- shared_preferences: ^0.5.2
-- To add sharing option to our Note App :- share: ^0.6.1+1
-- For fingerprint authentication :- local_auth: ^0.6.1+3
--  Few additional pakages :-
-- provider: ^4.0.4
-- fluttertoast: ^4.0.0
+- [path_provider: any](https://pub.dev/packages/path_provider)
+- [shared_preferences: ^0.5.2](https://pub.dev/packages/shared_preferences)
+- To add sharing option to our Note App :- [share: ^0.6.1+1](https://pub.dev/packages/share)
+- For fingerprint authentication :- [local_auth: ^0.6.1+3](https://pub.dev/packages/local_auth/versions)
+###  Few additional pakages :-
+- [provider: ^4.0.4](https://pub.dev/packages/provider)
+- [fluttertoast: ^4.0.0](https://pub.dev/packages/fluttertoast)
 
 </p>
 

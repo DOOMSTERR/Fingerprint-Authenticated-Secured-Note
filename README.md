@@ -26,6 +26,7 @@ Screenshots will be added !!
 - [provider: ^4.0.4](https://pub.dev/packages/provider)
 - [fluttertoast: ^4.0.0](https://pub.dev/packages/fluttertoast)
 
+
 </p>
 
 ## Setup :hammer_and_wrench:

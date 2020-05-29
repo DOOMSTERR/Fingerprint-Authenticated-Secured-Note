@@ -29,8 +29,7 @@ Screenshots will be added !!
 
 </p>
 
-## Setup :hammer_and_wrench:
-To run this application ......
+
 
 ## Contributors :woman_technologist:
 

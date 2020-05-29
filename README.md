@@ -17,7 +17,7 @@ Screenshots will be added !!
 
 #### Language - Dart (Flutter) 
 #### Packages and Dependencies used - 
-- For notes app to store the notes thatuser adds or modifies :-    sqflite: any
+- For notes app to store the notes thatuser adds or modifies :-    [sqflite: any](https://pub.dev/packages/sqflite)
 - path_provider: any
 - shared_preferences: ^0.5.2
 - To add sharing option to our Note App :- share: ^0.6.1+1

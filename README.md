@@ -5,7 +5,7 @@ It is an application that uses fingerprint as biometric authentication to access
 
 
 <p align="center">
-  <img width="900" height="450" src="https://github.com/Anushka-shukla/Fingerprint_Authenticated_Secured_Android_Notes/blob/master/images/george-prentzas-SRFG7iwktDk-unsplash.jpg">
+  <img width="900" height="450" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/images/george-prentzas-SRFG7iwktDk-unsplash.jpg">
 </p>
 
 ## Mock Up of the Application :iphone:

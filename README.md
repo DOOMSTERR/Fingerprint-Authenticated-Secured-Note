@@ -36,7 +36,7 @@ To run this application ......
 
 
 ## License :clipboard:
-Refer to [LICENSE](https://github.com/Anushka-shukla/Fingerprint_Authenticated_Secured_Android_Notes/blob/master/LICENSE) :heavy_check_mark:
+Refer to [LICENSE](https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/LICENSE.md) :heavy_check_mark:
 
 
 

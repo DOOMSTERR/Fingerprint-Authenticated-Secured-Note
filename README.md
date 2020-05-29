@@ -1,4 +1,4 @@
-# Fingerprint_Authenticated_Secured_Notes :point_up_2:
+# Fingerprint Authenticated Secured Notes :point_up_2:
 
 It is an application that uses fingerprint as biometric authentication to access the Notes application that is used to capture a quick thought, create checklists, sketch ideas, and more. The Notes app :memo: lets you quickly write :black_nib: down your thoughts, draft out your memos, or store any text you want to keep around for any length of time. With it, you can easily create new notes, update or append existing notes, and delete old notes you no longer need..
 

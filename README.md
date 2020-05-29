@@ -33,7 +33,7 @@ Screenshots will be added !!
 
 ## Contributors :woman_technologist:
 
-- [Anushka Shukla](https://github.com/Anushka-shukla)
+- [Anushka Shukla](https://github.com/Anushka-shukla) http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 - [Abhishek Kumar](https://github.com/DOOMSTERR)
 

@@ -17,14 +17,14 @@ Screenshots will be added !!
 
 - Language - Dart (Flutter) 
 - Packages and Dependencies used - For biometric fingerprint authentication we have used [local_auth: ^0.6.2+2](https://pub.dev/packages/local_auth#-readme-tab-) made by Flutter team of Google .
-For notes app to store the notes thatuser adds or modifies :-    sqflite: any
-  path_provider: any
-  shared_preferences: ^0.5.2
-  To add sharing option to our Note App :- share: ^0.6.1+1
-  For fingerprint authentication :- local_auth: ^0.6.1+3
-  Few additional pakages :-
-  provider: ^4.0.4
-  fluttertoast: ^4.0.0
+- For notes app to store the notes thatuser adds or modifies :-    sqflite: any
+- path_provider: any
+- shared_preferences: ^0.5.2
+- To add sharing option to our Note App :- share: ^0.6.1+1
+- For fingerprint authentication :- local_auth: ^0.6.1+3
+-  Few additional pakages :-
+- provider: ^4.0.4
+- fluttertoast: ^4.0.0
 
 </p>
 

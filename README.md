@@ -21,7 +21,7 @@ It is an application that uses fingerprint as biometric authentication to access
 
 ## Technologies :computer:
 <p align="center">
-  <img width="700" height="450" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
+  <img width="900" height="450" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
 
 ### SDK - Flutter
 ### Language - Dart  

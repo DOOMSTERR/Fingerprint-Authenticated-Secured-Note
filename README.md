@@ -3,7 +3,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/opensource-badges/)
 
 
-# Fingerprint Authenticated Secured Notes :point_up_2:
+# Fingerprint Authenticated Secured Notes :📱:
 
 It is an application that uses fingerprint as biometric authentication to access the Notes application that is used to capture a quick thought, create checklists, sketch ideas, and more. The Notes app :memo: lets you quickly write :black_nib: down your thoughts, draft out your memos, or store any text you want to keep around for any length of time. With it, you can easily create new notes, update or append existing notes, delete old notes you no longer need and share them too.
 
@@ -16,7 +16,7 @@ It is an application that uses fingerprint as biometric authentication to access
 
 ## Mock Up of the Application :Android:
 
-![Notes](https://cdn-images-1.medium.com/max/600/1*wvjUTw33-MCdhl93aGliOg.gif)
+![Notes](blob:https://medium.com/42b21796-8ea3-4b37-b7b3-6bed3dc1d8c2)
 
 
 ## Technologies :computer:

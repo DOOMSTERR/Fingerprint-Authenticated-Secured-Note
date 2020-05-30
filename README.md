@@ -69,7 +69,7 @@ Running this is as simple as it gets. Follow this steps
 
 
 ## License :heavy_check_mark:
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Whatsapp-UI-Clone.svg?style=for-the-badge)]()
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Whatsapp-UI-Clone.svg?style=for-the-badge)](https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/LICENSE.md)
 ```MIT License
 
 Copyright (c) 2020 Anushka Shukla

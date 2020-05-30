@@ -69,6 +69,8 @@ Running this is as simple as it gets. Follow this steps
 
 
 ## License :heavy_check_mark:
+License: MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Whatsapp-UI-Clone.svg?style=for-the-badge)](https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/LICENSE.md)
 ```MIT License
 

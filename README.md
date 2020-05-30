@@ -9,6 +9,9 @@ It is an application that uses fingerprint as biometric authentication to access
 </p>
 
 ## Mock Up of the Application :iphone:
+<p align="center">
+  <img width="90" height="45" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg">
+
 Screenshots will be added !!
 
 ## Technologies :computer:

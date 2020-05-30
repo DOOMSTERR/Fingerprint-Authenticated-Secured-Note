@@ -12,32 +12,19 @@ It is an application that uses fingerprint as biometric authentication to access
   <img width="900" height="450" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/images/george-prentzas-SRFG7iwktDk-unsplash.jpg">
 </p>
 
-### 👉 If you like this repo then please give it a ⭐️
+### 🎯 If you like this repo then please give it a ⭐️
 
-## Mock Up of the Application :iphone:
-<img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> 
-     <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.20%20PM.jpeg"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/>
-     <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.18%20PM.jpeg"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/>
-     <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.22%20PM.jpeg"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> 
-     
+## Mock Up of the Application :Android:
+
+![Notes] (https://cdn-images-1.medium.com/max/600/1*wvjUTw33-MCdhl93aGliOg.gif)
+
 
 ## Technologies :computer:
 <p align="center">
-  <img width="900" height="450" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
+  <img width="700" height="450" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
 
-### Language - Dart (Flutter) 
+### SDK - Flutter
+### Language - Dart  
 ### Packages and Dependencies used - 
 - For notes app to store the notes thatuser adds or modifies :-    [sqflite: any](https://pub.dev/packages/sqflite)
 - [path_provider: any](https://pub.dev/packages/path_provider)

@@ -48,9 +48,17 @@ It is an application that uses fingerprint as biometric authentication to access
 - [provider: ^4.0.4](https://pub.dev/packages/provider)
 - [fluttertoast: ^4.0.0](https://pub.dev/packages/fluttertoast)
 
-
 </p>
 
+## How to run this
+Running this is as simple as it gets. Follow this steps
+1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+2. Navigate to the project folder where you have cloned this repo.
+3. Open an emulator or plug in a real device
+4. Type the following command in the terminal 
+     ```
+     flutter run
+     ```
 
 
 ## Contributors :woman_technologist:
@@ -59,11 +67,28 @@ It is an application that uses fingerprint as biometric authentication to access
 
 - [Abhishek Kumar](https://github.com/DOOMSTERR)
 
-- [Arthat Arora]()
 
+## License :heavy_check_mark:
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Whatsapp-UI-Clone.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-Whatsapp-UI-Clone/blob/master/LICENSE)
+```Copyright 2019 Sayan Mondal
 
-## License :clipboard:
-Refer to [LICENSE](https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/LICENSE.md) :heavy_check_mark:
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Refer to [LICENSE](https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/LICENSE.md) 
+
+```
+
+## NOTE:
+This project is subject to change by the developer and is still in development
 
 

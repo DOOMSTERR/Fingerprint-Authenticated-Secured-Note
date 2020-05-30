@@ -15,36 +15,20 @@ It is an application that uses fingerprint as biometric authentication to access
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Mock Up of the Application :iphone:
-<img src="images/Capture1.png"
+<img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.20%20PM.jpeg"
+     width="200"/> <img src=https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.20%20PM.jpeg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/> <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.18%20PM.jpeg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/> <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.22%20PM.jpeg"
-     />
-
-
-
-
-
-<p align="left">
-  <img width="250" height="390" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg">
-  <p align="left">
-  <img width="250" height="390" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.20%20PM.jpeg">
-     <p align="left">
-  <img width="250" height="390" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.18%20PM.jpeg">
-          <p align="left">
-  <img width="250" height="390" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.22%20PM.jpeg">
-    
-
-
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> 
+     
 
 ## Technologies :computer:
 <p align="center">

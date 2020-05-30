@@ -70,7 +70,7 @@ Running this is as simple as it gets. Follow this steps
 
 ## License :heavy_check_mark:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-(https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/LICENSE.md)
+
 ```MIT License
 
 Copyright (c) 2020 Anushka Shukla

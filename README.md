@@ -8,12 +8,32 @@
 It is an application that uses fingerprint as biometric authentication to access the Notes application that is used to capture a quick thought, create checklists, sketch ideas, and more. The Notes app :memo: lets you quickly write :black_nib: down your thoughts, draft out your memos, or store any text you want to keep around for any length of time. With it, you can easily create new notes, update or append existing notes, and delete old notes you no longer need..
 
 
-
 <p align="center">
   <img width="900" height="450" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/images/george-prentzas-SRFG7iwktDk-unsplash.jpg">
 </p>
 
+### 👉 If you like this repo then please give it a ⭐️
+
 ## Mock Up of the Application :iphone:
+<img src="images/Capture1.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.20%20PM.jpeg"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.18%20PM.jpeg"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.22%20PM.jpeg"
+     />
+
+
+
+
+
 <p align="left">
   <img width="250" height="390" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg">
   <p align="left">

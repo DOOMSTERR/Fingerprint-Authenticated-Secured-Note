@@ -16,7 +16,7 @@ It is an application that uses fingerprint as biometric authentication to access
 
 ## Mock Up of the Application :Android:
 
-![Notes] (https://cdn-images-1.medium.com/max/600/1*wvjUTw33-MCdhl93aGliOg.gif)
+![Notes](https://cdn-images-1.medium.com/max/600/1*wvjUTw33-MCdhl93aGliOg.gif)
 
 
 ## Technologies :computer:

@@ -10,7 +10,7 @@ It is an application that uses fingerprint as biometric authentication to access
 
 ## Mock Up of the Application :iphone:
 <p align="left">
-  <img width="200" height="350" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg">
+  <img width="280" height="390" src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.45.19%20PM.jpeg">
 
 
 

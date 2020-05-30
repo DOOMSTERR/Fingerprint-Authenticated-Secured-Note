@@ -1,3 +1,6 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-Whatsapp-UI-Clone.svg)](https://github.com/S-ayanide/Flutter-Whatsapp-UI-Clone/issues) [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-Whatsapp-UI-Clone.svg)](https://github.com/S-ayanide/Flutter-Whatsapp-UI-Clone/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-Whatsapp-UI-Clone.svg)](https://github.com/S-ayanide/Flutter-Whatsapp-UI-Clone/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Whatsapp-UI-Clone.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-Whatsapp-UI-Clone/blob/master/LICENSE)
+
 # Fingerprint Authenticated Secured Notes :point_up_2:
 
 It is an application that uses fingerprint as biometric authentication to access the Notes application that is used to capture a quick thought, create checklists, sketch ideas, and more. The Notes app :memo: lets you quickly write :black_nib: down your thoughts, draft out your memos, or store any text you want to keep around for any length of time. With it, you can easily create new notes, update or append existing notes, and delete old notes you no longer need..
@@ -43,7 +46,7 @@ It is an application that uses fingerprint as biometric authentication to access
 
 ## Contributors :woman_technologist:
 
-- [Anushka Shukla](https://github.com/Anushka-shukla) http://i.imgur.com/0o48UoR.png (github icon with padding)
+- [Anushka Shukla](https://github.com/Anushka-shukla) 
 
 - [Abhishek Kumar](https://github.com/DOOMSTERR)
 

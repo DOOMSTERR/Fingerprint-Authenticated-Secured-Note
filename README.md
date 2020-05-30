@@ -19,7 +19,7 @@ It is an application that uses fingerprint as biometric authentication to access
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/> 
-     <img src='https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.20%20PM.jpeg"
+     <img src="https://github.com/Anushka-shukla/Fingerprint-Authenticated-Secured-Note/blob/master/mockup/WhatsApp%20Image%202020-05-29%20at%205.50.20%20PM.jpeg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/>

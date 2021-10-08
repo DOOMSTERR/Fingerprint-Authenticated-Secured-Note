@@ -51,7 +51,7 @@ Running this is as simple as it gets. Follow this steps
 ```
 MIT License
 
-Copyright (c) 2020 Anushka Shukla
+Copyright (c) 2020 Abhishek Kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
 documentation files (the "Software"), to deal in the Software without restriction, including without limitation

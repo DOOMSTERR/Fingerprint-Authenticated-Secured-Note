@@ -42,6 +42,8 @@ Running this is as simple as it gets. Follow this steps
 
 - [Abhishek Kumar](https://github.com/DOOMSTERR)
 
+- [Tushar](https://github.com/akhiltushar)
+
 
 ## License :heavy_check_mark:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

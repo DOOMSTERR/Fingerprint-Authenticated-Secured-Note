@@ -30,11 +30,6 @@ class btnGetListBiometrics extends StatelessWidget {
     
   }
 
-
-
-
-
-
     return Center(
       child: RaisedButton(
         color: Colors.orange[500],

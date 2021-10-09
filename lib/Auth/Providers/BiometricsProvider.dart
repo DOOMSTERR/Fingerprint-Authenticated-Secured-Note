@@ -25,7 +25,6 @@ class BiometricsProvider with ChangeNotifier
   }
 
 
-
   //Authentication
   bool _isAuthenticated = false;
 

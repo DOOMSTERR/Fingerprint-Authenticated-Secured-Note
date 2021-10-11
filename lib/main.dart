@@ -64,6 +64,8 @@ class MyApp extends StatelessWidget {
                       } on PlatformException catch (e) {
                         print(e);
                       }
+
+
 //  getValueOfisAuthenticated.isAuthenticated = authenticated;
 //       Fluttertoast.showToast(
 //           msg: getValueOfisAuthenticated.isAuthenticated
@@ -74,6 +76,8 @@ class MyApp extends StatelessWidget {
 //           backgroundColor: Colors.purple,
 //           textColor: Colors.white,
 //           fontSize: 16.0);
+
+
                       print(authenticated);
                       if (authenticated) {
                         Navigator.of(context).push(MaterialPageRoute(
